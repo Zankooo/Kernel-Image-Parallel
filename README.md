@@ -130,8 +130,8 @@ Pri vseh treh verzijah programa (sekvenčni, vzporedni in porazdeljeni) sem (bom
 
 ## ⚡ Izboljšane oziroma drugačne verzije programa
 
-Ta program je implementiran sekvenčno. 
-Glede na njegovo strukturo nam daje možnost da ga optimiziramo. 
-Optimizirani verziji `vzporedna (paralelna)` in `porazdeljena (distributed)` bosta na voljo kmalu... Coming soon
+Ta program je implementiran paralelno (vzporedno). 
+Glede na njegovo strukturo nam daje možnost da smo sekvenčnega optimizirali in dobili trenutno verzijo. 
+Sledi še na drug način tako imenovana `porazdeljena (distributed)` izvedba... Coming soon
 
 
