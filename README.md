@@ -32,7 +32,7 @@ Mi kot uporabnik programa damo programu eno ali več slik svojih poljubnih slik 
 ## 🚩 Navodila za zagon programa
 
 1. Če programa še nimaš lokalno ga namestiš s komando:
-` git clone https://github.com/Zankooo/Kernel-Image-Sequential.git `
+` git clone https://github.com/Zankooo/Kernel-Image-Parallel.git `
 2. Program zaženeš tako da zaženeš Main.java in mora delovati. Pri implementaciji sem uporabljal `open jdk-24.0.2` vendar bi program moral delovati tudi na drugih verzijah Jave. 
 
 ## 📝 Opombe
