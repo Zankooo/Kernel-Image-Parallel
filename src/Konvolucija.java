@@ -89,7 +89,7 @@ public class Konvolucija {
     public static BufferedImage konvolucijaRGBParallel(BufferedImage slika, float[][] kernel) {
         
         // vzamemo max stevilo niti ki so na voljo
-        int steviloNiti = Runtime.getRuntime().availableProcessors();
+        int steviloNiti = Runtime.getRuntime().availableProcessors() - 1;
         
         int kernelSirina = kernel[0].length;
         int kernelDolzina = kernel.length;
